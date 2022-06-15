@@ -1,6 +1,6 @@
-<h1 align="center">Hunter Downey</h1>
+<h1 align="center">Hi, I'm Hunter Downey</h1>
 
-<h1 align="center">iOS Developer</h1>
+<h1 align="center">Currently passionate about iOS Development</h1>
 
 - I’m currently working on updates for **Lokagaru**
 

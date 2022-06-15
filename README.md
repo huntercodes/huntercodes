@@ -24,7 +24,7 @@ Lokgaru is an accurate chromatic tuner, built with Swift/SwiftUI.
 
 ### Download on the App Store: https://apps.apple.com/us/app/lokagaru/id1618394520
 
-
+##
 ## SuHDoku
 SuHDoku generates and solves sudoku puzzles, built with Swift/SwiftUI.
 
@@ -45,7 +45,7 @@ SuHDoku generates and solves sudoku puzzles, built with Swift/SwiftUI.
 
 ### Learn more about SuHDoku: https://github.com/huntercodes/SuHDoku
 
-
+##
 ## RealityHD
 RealityHD allows the user to view 3d objects in your home! Built with Swift/SwiftUI/Combine/UIKit.
 

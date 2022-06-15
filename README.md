@@ -1,5 +1,3 @@
-![dev1](https://user-images.githubusercontent.com/85328038/173901128-10377997-fe31-40b5-8486-090163326958.png)
-
 <h1 align="center">Hunter Downey</h1>
 
 <h1 align="center">Passionate iOS Developer</h1>

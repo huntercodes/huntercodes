@@ -23,6 +23,23 @@ Lokgaru is an accurate chromatic tuner, built with Swift/SwiftUI.
 ### Download on the App Store: https://apps.apple.com/us/app/lokagaru/id1618394520
 
 ##
+## Vibratio
+Vibratio is a custom music player built with Swift/UIKit.
+
+![VibratioPlaylistView](https://user-images.githubusercontent.com/85328038/176363821-989017ab-0e32-425f-90e6-5f8ef16fb596.png)
+![VibratioSearchView](https://user-images.githubusercontent.com/85328038/176363828-832db74a-7a75-4c8c-b640-f852be8f77a0.png)
+![VibratioMusic](https://user-images.githubusercontent.com/85328038/176363838-734387c4-f294-4155-baaf-bc8120a70e02.png)
+![VibratioLibrary](https://user-images.githubusercontent.com/85328038/176363848-ba7b8225-0862-41c5-8443-71e8a69f06d4.png)
+
+### Tools Used
+- Swift
+- UIKit
+- Spotify API's
+- MVVM-C
+
+### Learn more about Vibratio: https://github.com/huntercodes/Vibratio
+
+##
 ## SuHDoku
 SuHDoku generates and solves sudoku puzzles, built with Swift/SwiftUI.
 

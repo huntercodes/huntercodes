@@ -1,17 +1,16 @@
-<h1 align="center">Hi, I'm Hunter Downey</h1>
+<h1 align="center">huntercodes</h1>
 
-<h1 align="center">Currently passionate about iOS Development</h1>
-
-- I’m currently working on updates for **Lokagaru**
-
+- Working on updates for **Lokagaru**
+- Taking freelance work
+- Looking for a full-time position
 - Reach me at **hdowneymac@gmail.com**
 
 ## Lokagaru
 Lokgaru is an accurate chromatic tuner, built with Swift/SwiftUI. 
 
-![loka3](https://user-images.githubusercontent.com/85328038/173899001-60026a8b-ee8a-41c6-8c89-39ca06843a86.png)
-![loka2](https://user-images.githubusercontent.com/85328038/173898933-2956437d-6dbf-4b61-b8a6-b48993c2d843.png)
-![loka1](https://user-images.githubusercontent.com/85328038/173898959-b7d17c0b-1a1d-40d5-af11-6e25c762643e.png)
+https://user-images.githubusercontent.com/85328038/194207355-394f63ea-5bb9-4a94-ac95-435191bfc902.mov
+https://user-images.githubusercontent.com/85328038/194207392-f4b48aef-d271-4bca-b019-c727638ca181.mov
+https://user-images.githubusercontent.com/85328038/194207400-b251c358-6398-49dd-b75c-af9f8695154e.mov
 
 ### Tools Used
 - Swift
@@ -21,6 +20,26 @@ Lokgaru is an accurate chromatic tuner, built with Swift/SwiftUI.
 - Applied Music Theory
 
 ### Download on the App Store: https://apps.apple.com/us/app/lokagaru/id1618394520
+
+##
+## Github Followers
+Github Followers fetches data from the Github API, when prompted with a user.
+
+https://user-images.githubusercontent.com/85328038/194207644-c586636a-b878-4399-9ae5-237a9f3e583d.mov
+https://user-images.githubusercontent.com/85328038/194207653-786d5a42-3456-4610-a472-57945e3dfd40.mov
+https://user-images.githubusercontent.com/85328038/194207663-b6020ce1-607a-4218-8fea-9a32f53580c5.mov
+https://user-images.githubusercontent.com/85328038/194207670-d5c2f1e3-86d0-4b28-83da-cfeb6fd7a50d.mov
+
+### Tools Used
+- Swift
+- UIKit
+- User Defaults
+- CollectionView
+- NSCache
+- Diffable Data Source
+- Async/Await
+
+### Learn more about Github Followers: https://github.com/huntercodes/GithubFollowers
 
 ##
 ## Vibratio

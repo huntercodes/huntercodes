@@ -8,9 +8,9 @@
 ## Lokagaru
 Lokgaru is an accurate chromatic tuner, built with Swift/SwiftUI. 
 
-https://user-images.githubusercontent.com/85328038/194207355-394f63ea-5bb9-4a94-ac95-435191bfc902.mov
-https://user-images.githubusercontent.com/85328038/194207392-f4b48aef-d271-4bca-b019-c727638ca181.mov
-https://user-images.githubusercontent.com/85328038/194207400-b251c358-6398-49dd-b75c-af9f8695154e.mov
+![lokaOver1](https://user-images.githubusercontent.com/85328038/194208404-b342db15-5a2a-4d48-8746-7ae4014596ee.gif)
+![lokaOver2](https://user-images.githubusercontent.com/85328038/194208422-1bf105dc-eb85-462b-ad0e-e70a0b387f40.gif)
+![lokaOver3](https://user-images.githubusercontent.com/85328038/194208429-81a4b6ec-7d5b-4928-912c-230c69076886.gif)
 
 ### Tools Used
 - Swift
@@ -25,10 +25,9 @@ https://user-images.githubusercontent.com/85328038/194207400-b251c358-6398-49dd-
 ## Github Followers
 Github Followers fetches data from the Github API, when prompted with a user.
 
-https://user-images.githubusercontent.com/85328038/194207644-c586636a-b878-4399-9ae5-237a9f3e583d.mov
-https://user-images.githubusercontent.com/85328038/194207653-786d5a42-3456-4610-a472-57945e3dfd40.mov
-https://user-images.githubusercontent.com/85328038/194207663-b6020ce1-607a-4218-8fea-9a32f53580c5.mov
-https://user-images.githubusercontent.com/85328038/194207670-d5c2f1e3-86d0-4b28-83da-cfeb6fd7a50d.mov
+![ghOver1](https://user-images.githubusercontent.com/85328038/194208489-dbedddea-60a8-4acd-9781-2ba4db67c99a.gif)
+![ghOver3](https://user-images.githubusercontent.com/85328038/194208504-3acf905d-a0aa-4b21-a9a2-40fb16b6a3c9.gif)
+![ghOver4](https://user-images.githubusercontent.com/85328038/194208510-43efbc17-5d51-43a5-856c-c61fac30e8af.gif)
 
 ### Tools Used
 - Swift

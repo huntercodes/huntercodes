@@ -38,7 +38,7 @@ GitHub Followers fetches data from the Github API, when prompted with a user.
 - Diffable Data Source
 - Async/Await
 
-### Learn more about Github Followers: https://github.com/huntercodes/GithubFollowers
+### Learn more about GitHub Followers: https://github.com/huntercodes/GithubFollowers
 
 ##
 ## Vibratio

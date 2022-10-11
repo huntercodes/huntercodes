@@ -22,8 +22,8 @@ Lokgaru is an accurate chromatic tuner, built with Swift/SwiftUI.
 ### Download on the App Store: https://apps.apple.com/us/app/lokagaru/id1618394520
 
 ##
-## Github Followers
-Github Followers fetches data from the Github API, when prompted with a user.
+## GitHub Followers
+GitHub Followers fetches data from the Github API, when prompted with a user.
 
 ![ghOver1](https://user-images.githubusercontent.com/85328038/194208489-dbedddea-60a8-4acd-9781-2ba4db67c99a.gif)
 ![ghOver3](https://user-images.githubusercontent.com/85328038/194208504-3acf905d-a0aa-4b21-a9a2-40fb16b6a3c9.gif)

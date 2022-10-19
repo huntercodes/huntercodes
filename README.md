@@ -1,7 +1,6 @@
 <h1 align="center">huntercodes</h1>
 
 - Working on updates for **Lokagaru**
-- Open to Contract/Freelance work
 - Looking for a full-time position
 - Reach me at **hdowneymac@gmail.com**
 

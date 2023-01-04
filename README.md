@@ -1,7 +1,8 @@
 <h1 align="center">huntercodes</h1>
 
 - Working on updates for **Lokagaru**
-- Looking for a full-time position
+- Looking for a full-time iOS position
+- Diving deep into ARKit and RealityKit
 - Reach me at **hdowneymac@gmail.com**
 
 ## Lokagaru

@@ -6,8 +6,6 @@
 - Reach me at **hdowneymac@gmail.com**
 
 ## Lokagaru
-Lokgaru is an accurate chromatic tuner, built with Swift/SwiftUI. 
-
 ![lokaOver1](https://user-images.githubusercontent.com/85328038/194208404-b342db15-5a2a-4d48-8746-7ae4014596ee.gif)
 ![lokaOver2](https://user-images.githubusercontent.com/85328038/194208422-1bf105dc-eb85-462b-ad0e-e70a0b387f40.gif)
 ![lokaOver3](https://user-images.githubusercontent.com/85328038/194208429-81a4b6ec-7d5b-4928-912c-230c69076886.gif)

@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=huntercodes">
 </p>
 
-![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntercodes&show_icons=true&theme=radical)
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=huntercodes&show_icons=true&theme=radical">
+</p>
 
 <p align="center">I'm Hunter, an iOS Developer driven by my passion for crafting immersive, useful applications. I'm always keen on exploring the full potential of ARKit and RealityKit, and I love using Swift and SwiftUI in creating intuitive and dynamic interfaces. Currently, I'm open to full-time iOS developer roles where I can further hone my skills and contribute to creating impactful digital experiences.</p>
 

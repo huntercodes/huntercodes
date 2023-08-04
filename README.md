@@ -1,100 +1,54 @@
-<h1 align="center">huntercodes</h1>
+<h1 align="center">Hello</h1>
 
-- Working on updates for **Lokagaru**
-- Looking for a full-time iOS position
-- Diving deep into ARKit and RealityKit
-- Reach me at **hdowneymac@gmail.com**
+<p align="center">
+  <img src="https://img.shields.io/github/followers/huntercodes?style=social">
+  <img src="https://img.shields.io/github/stars/huntercodes?style=social">
+  <img src="https://komarev.com/ghpvc/?username=huntercodes">
+</p>
 
-## Lokagaru
+![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntercodes&show_icons=true&theme=radical)
+
+<p align="center">I'm Hunter, an iOS Developer driven by my passion for crafting immersive, useful applications. I'm always keen on exploring the full potential of ARKit and RealityKit, and I love using Swift and SwiftUI in creating intuitive and dynamic interfaces. Currently, I'm open to full-time iOS developer roles where I can further hone my skills and contribute to creating impactful digital experiences.</p>
+
+## Featured Projects
+
+### Lokagaru
 ![lokaOver1](https://user-images.githubusercontent.com/85328038/194208404-b342db15-5a2a-4d48-8746-7ae4014596ee.gif)
-![lokaOver2](https://user-images.githubusercontent.com/85328038/194208422-1bf105dc-eb85-462b-ad0e-e70a0b387f40.gif)
-![lokaOver3](https://user-images.githubusercontent.com/85328038/194208429-81a4b6ec-7d5b-4928-912c-230c69076886.gif)
 
-### Tools Used
-- Swift
-- SwiftUI 
-- AudioKit 
-- Custom Font Files
-- Applied Music Theory
+Lokagaru is a music theory application that offers a unique and interactive way of exploring sounds. It's built using Swift, SwiftUI, and AudioKit to provide a seamless user experience. 
 
-### Download on the App Store: https://apps.apple.com/us/app/lokagaru/id1618394520
+Check out Lokagaru on the [App Store](https://apps.apple.com/us/app/lokagaru/id1618394520).
 
-##
-## GitHub Followers
-GitHub Followers fetches data from the Github API, when prompted with a user.
-
-![ghOver1](https://user-images.githubusercontent.com/85328038/194208489-dbedddea-60a8-4acd-9781-2ba4db67c99a.gif)
-![ghOver3](https://user-images.githubusercontent.com/85328038/194208504-3acf905d-a0aa-4b21-a9a2-40fb16b6a3c9.gif)
-![ghOver4](https://user-images.githubusercontent.com/85328038/194208510-43efbc17-5d51-43a5-856c-c61fac30e8af.gif)
-
-### Tools Used
-- Swift
-- UIKit
-- User Defaults
-- CollectionView
-- NSCache
-- Diffable Data Source
-- Async/Await
-
-### Learn more about GitHub Followers: https://github.com/huntercodes/GithubFollowers
-
-##
-## Vibratio
-Vibratio is a custom music player built with Swift/UIKit.
-
-![VibratioPlaylistView](https://user-images.githubusercontent.com/85328038/176363821-989017ab-0e32-425f-90e6-5f8ef16fb596.png)
-![VibratioSearchView](https://user-images.githubusercontent.com/85328038/176363828-832db74a-7a75-4c8c-b640-f852be8f77a0.png)
-![VibratioMusic](https://user-images.githubusercontent.com/85328038/176363838-734387c4-f294-4155-baaf-bc8120a70e02.png)
-![VibratioLibrary](https://user-images.githubusercontent.com/85328038/176363848-ba7b8225-0862-41c5-8443-71e8a69f06d4.png)
-
-### Tools Used
-- Swift
-- UIKit
-- Spotify API's
-- MVVM-C
-
-### Learn more about Vibratio: https://github.com/huntercodes/Vibratio
-
-##
-## SuHDoku
-SuHDoku generates and solves sudoku puzzles, built with Swift/SwiftUI.
-
-![suh1](https://user-images.githubusercontent.com/85328038/173899043-cca2ec70-4e56-46ba-b46d-3522a7d1c922.png)
-![suh2](https://user-images.githubusercontent.com/85328038/173899105-0e32ff35-60c8-4460-921d-e0e0f722855a.png)
-![suh3](https://user-images.githubusercontent.com/85328038/173899130-c74a24f5-cd70-4946-aa02-378945758e2b.png)
-
-### Tools Used
-- Swift
-- SwiftUI
-- Puzzle Generator / Solver
-- Google AdMob
-- App Tracking Transparency
-- iPadOS Support
-- Custom Font Files
-
-### Learn more about SuHDoku: https://github.com/huntercodes/SuHDoku
-
-##
-## RealityHD
-RealityHD allows the user to view 3d objects in your home! Built with Swift/SwiftUI/Combine/UIKit.
-
+### RealityHD
 ![real1](https://user-images.githubusercontent.com/85328038/173899170-97cfc955-743f-4dcd-b207-9d1eb9c55e0d.png)
-![real2](https://user-images.githubusercontent.com/85328038/173899189-e5359ab7-ec8b-4cac-a29e-5a49c304fcd6.png)
-![real3](https://user-images.githubusercontent.com/85328038/173899211-07d2964d-5448-42d4-a13c-8723a9c61b61.png)
-![real4](https://user-images.githubusercontent.com/85328038/173899228-cc4788f7-b8b4-4d31-ad36-b7f0a3d4bf93.png)
 
-### Tools Used
-- Swift
-- SwiftUI / UIKit / Combine
-- RealityKit
-- ARKit
-- Object Occlusion / People Occlusion
-- Scene Persistence
-- Object Interactivity
+RealityHD lets users view and interact with 3D objects right in their home environment. This app, leveraging Swift, SwiftUI, Combine, UIKit, RealityKit, and ARKit, offers exciting features like object occlusion, scene persistence, and object interactivity.
 
-### Learn more about RealityHD: https://github.com/huntercodes/RealityHD
+Explore RealityHD on [GitHub](https://github.com/huntercodes/RealityHD).
+
+### GitHub Followers
+![ghOver1](https://user-images.githubusercontent.com/85328038/194208489-dbedddea-60a8-4acd-9781-2ba4db67c99a.gif)
+
+GitHub Followers is a Swift app that fetches and displays GitHub user data. It's crafted using UIKit and User Defaults, coupled with CollectionView, NSCache, and the async/await pattern for smooth, performant, and effective data handling.
+
+Explore more about GitHub Followers on [GitHub](https://github.com/huntercodes/GithubFollowers).
+
+### Vibratio
+![VibratioPlaylistView](https://user-images.githubusercontent.com/85328038/176363821-989017ab-0e32-425f-90e6-5f8ef16fb596.png)
+
+Vibratio is a custom music player powered by Swift and the Spotify API. Its elegant interface, constructed using UIKit and the MVVM-C architecture, provides users with a fantastic music experience.
+
+Get to know more about Vibratio on [GitHub](https://github.com/huntercodes/Vibratio).
+
+### SuHDoku
+![suh1](https://user-images.githubusercontent.com/85328038/173899043-cca2ec70-4e56-46ba-b46d-3522a7d1c922.png)
+
+SuHDoku, a Sudoku puzzle generator and solver, offers a fun and challenging way to exercise your mind. Built using Swift and SwiftUI, this app also includes Google AdMob, App Tracking Transparency, and iPadOS support.
+
+Discover more about SuHDoku on [GitHub](https://github.com/huntercodes/SuHDoku).
 
 ##
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hntrcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hntrcodes" height="30" width="40" /></a>
@@ -102,3 +56,8 @@ RealityHD allows the user to view 3d objects in your home! Built with Swift/Swif
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+## Reach me at:
+**hdowneymac@gmail.com** 
+
+Feel free to browse through my projects and don't hesitate to reach out if you'd like to collaborate or just chat about anything iOS-related! Happy coding!
